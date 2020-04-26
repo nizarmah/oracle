@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # oracle.h5
-checkpoint.h5
+*checkpoint.h5
